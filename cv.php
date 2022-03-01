@@ -46,12 +46,12 @@
 		<table border="0">
 			<td width="570" height="100" style="padding-left: 20px;">
 				<font size="7" face="Perpetua">
-					<b> Erika Mae L. Serquiña </b> <br>
+					<b> Andrew Lacambra </b> <br>
 				</font>
 				<font size="5" face="Perpetua">
-					Address: Quezon St., Casaratan, San Nicolas, Pangasinan <br>
-					Contact No.: 09123456789 <br>
-					E-mail: erikalopezserquina@gmail.com <br>
+					Address: Tebuel Manaoag Pangasinan <br>
+					Contact No.: 09489750074 <br>
+					E-mail: andrewlacambra7@gmail.com<br>
 				</font>
 			</td>
 			<td width = "200" height = "100">
@@ -100,14 +100,14 @@
 				</td>
 				<td width="470">
 					<font size="5" face="Perpetua">
-						May 18, 2001 <br>
-						San Nicolas, Pangasinan <br>
-						20 Years Old <br>
-						Female <br>
+						August 12, 2001 <br>
+						Tebuel Manaoag, Pangasinan <br>
+						20 YRS OLD <br>
+						Male <br>
 						Roman Catholic <br>
 						Single <br>
-						Menzi C. Serquiña <br>
-						Jasmin L. Serquiña <br>
+						Celso B. Lacambra <br>
+						Evelyn M. Lacambra <br>
 					</font>
 				</td>
 			</tr>
@@ -201,8 +201,8 @@
 				<td>
 					<p>
 						<font size="5" face="Perpetua">
-							Red Arrow High School <br>
-							Nagkaysa, San Nicolas, Pangasinan <br>
+							Manaoag National High School <br>
+							Manaoag, Pangasinan <br>
 							2018 - 2019 <br>
 						</font>
 					</p>
@@ -229,7 +229,7 @@
 					<p>
 						<font size="5" face="Perpetua">
 							East Central Elementary School <br>
-							Pob East, San Nicolas, Pangasinan <br>
+							San Fabian Pangasinan <br>
 							2012 - 2013 <br>
 						</font>
 					</p>
